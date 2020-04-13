@@ -5,3 +5,4 @@ resource "random_integer" "integer" {
   min = var.min
   max = var.max
 }
+
